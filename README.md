@@ -1,2 +1,2 @@
 # FSAE-Circuit-Design
-Avik's FSAE Circuit Design schematics and PCBs
+Avik's FSAE experience, custom Schematics and PCBs
